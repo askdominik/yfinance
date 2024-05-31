@@ -23,7 +23,7 @@ A Django application that integrates with the Yahoo Finance API using the `yfina
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/yfinance.git
+    git clone https://github.com/askdominik/yfinance.git
     cd finance_project
     ```
 
